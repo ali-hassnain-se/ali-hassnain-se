@@ -1,6 +1,6 @@
 # Hi there, I'm Ali Hassnain! 👋
 
-I am a **Software Engineering Student** at GCUF, passionate about logic building and problem-solving.
+I am a **Software Engineering Student** at Superior College, Mian Channu (Affiliated with GCUF), passionate about logic building and problem-solving.
 
 ### 🛠 Skills & Tools
 <p align="left">
