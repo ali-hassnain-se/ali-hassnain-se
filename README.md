@@ -10,6 +10,8 @@ I am a **Software Engineering Student** at GCUF, passionate about logic building
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hassnain-se&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🔭 Current Projects
 - Implementing Core DSA concepts in C++
 - Building a strong portfolio of DSA
