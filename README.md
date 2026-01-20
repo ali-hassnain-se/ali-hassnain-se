@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Ali Hassnain! 👋
 
-<!--
-**ali-hassnain-se/ali-hassnain-se** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Software Engineering Student** at GCUF, passionate about logic building and problem-solving.
 
-Here are some ideas to get you started:
+### 🛠 Skills
+- **Languages:** C++
+- **Focus:** Data Structures & Algorithms (DSA), OOP
+- **Tools:** Git, GitHub, VS Code / DevC++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Current Projects
+- Implementing Core DSA concepts in C++
+- Building a strong portfolio of DSA
+
+### 📫 How to reach me
+- **LinkedIn:** [https://www.linkedin.com/in/ali-hassnain-232789352/]
+- **Email:** ranaalihassnain07@gmail.com
