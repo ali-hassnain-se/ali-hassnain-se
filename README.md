@@ -19,5 +19,6 @@ I am a **Software Engineering Student** at Superior College, Mian Channu (Affili
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hassnain-se&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 How to reach me
-​LinkedIn: Ali Hassnain
+​LinkedIn: https://www.linkedin.com/in/ali-hassnain-232789352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 ​Email: ranaalihassnain07@gmail.com
