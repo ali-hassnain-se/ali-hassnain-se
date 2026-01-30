@@ -14,7 +14,7 @@ I am a **Software Engineering Student** at Superior College, Mian Channu (Affili
 - Implementing Core DSA concepts in C++
 - Building a strong portfolio of DSA
 
-[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-hassnain-se&show_icons=true&theme=radical&cache_seconds=1800)](https://github.com/ali-hassnain-se)
+[![Ali's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=ali-hassnain-se&show_icons=true&theme=radical)](https://github.com/ali-hassnain-se)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hassnain-se&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
