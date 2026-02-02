@@ -16,7 +16,7 @@ I am a **Software Engineering Student** at Superior College, Mian Channu (Affili
 
 [![Ali's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=ali-hassnain-se&show_icons=true&theme=radical)](https://github.com/ali-hassnain-se)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hassnain-se&layout=compact&theme=radical&cache_seconds=1800&v=2)](https://github.com/ali-hassnain-se)
+![C++](https://img.shields.io/badge/Main%20Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)
 
 ### 📫 How to reach me
 ​LinkedIn: https://www.linkedin.com/in/ali-hassnain-232789352/
