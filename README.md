@@ -29,8 +29,7 @@ I am a passionate **Software Engineering Student** (3rd Semester) at **Superior 
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ali-hassnain-se&show_icons=true&theme=radical&cache_seconds=1800" alt="Ali's GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hassnain-se&layout=compact&theme=radical&cache_seconds=1800" alt="Top Langs" />
-</p>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hassnain-se&layout=compact&theme=radical&cache_seconds=1800&v=100)](https://github.com/ali-hassnain-se)
 
 ---
 
