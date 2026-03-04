@@ -7,6 +7,7 @@ I am a passionate **Software Engineering Student** (3rd Semester) at **Superior 
 ### 🌟 Professional Highlights
 - **Open Source Contributor @ KDE:** Developed and submitted a Python-based build blueprint for the **Mankala Engine**.
 - **KDE Craft:** Automated complex cross-platform dependency resolution for Windows environments.
+- **DSA Practitioner:** Maintaining a 98+ commit streak while implementing advanced DSA concepts in C++.
 
 ---
 
@@ -29,7 +30,8 @@ I am a passionate **Software Engineering Student** (3rd Semester) at **Superior 
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ali-hassnain-se&show_icons=true&theme=radical&cache_seconds=1800" alt="Ali's GitHub stats" />
   <br/>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hassnain-se&layout=compact&theme=radical&cache_seconds=1800&v=100)](https://github.com/ali-hassnain-se)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hassnain-se&layout=compact&theme=radical&cache_seconds=1800&v=2" alt="Top Langs" />
+</p>
 
 ---
 
