@@ -27,10 +27,11 @@ I am a passionate **Software Engineering Student** (3rd Semester) at **Superior 
 ---
 
 ### 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ali-hassnain-se&show_icons=true&theme=radical&cache_seconds=1800" alt="Ali's GitHub stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ali-hassnain-se&show_icons=true&theme=radical&cache_seconds=1800&v=3" alt="Ali's GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hassnain-se&layout=compact&theme=radical&cache_seconds=1800&v=2" alt="Top Langs" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ali-hassnain-se&layout=compact&theme=radical&cache_seconds=1800&v=3" alt="Top Langs" />
 </p>
 
 ---
