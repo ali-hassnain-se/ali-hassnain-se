@@ -7,7 +7,6 @@ I am a passionate **Software Engineering Student** (3rd Semester) at **Superior 
 ### 🌟 Professional Highlights
 - **Open Source Contributor @ KDE:** Developed and submitted a Python-based build blueprint for the **Mankala Engine**.
 - **KDE Craft:** Automated complex cross-platform dependency resolution for Windows environments.
-- **DSA Practitioner:** Maintaining a 50+ commit streak while implementing advanced DSA concepts in C++.
 
 ---
 
