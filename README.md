@@ -1,6 +1,6 @@
 # Hi there, I'm Ali Hassnain! 👋 🚀
 
-I am a passionate **Software Engineering Student** (3rd Semester) at **Superior College, Mian Channu** (Affiliated with GCUF). I focus on building efficient logic and scalable systems. My journey is driven by a commitment to mastering Data Structures and contributing to impactful Open Source projects.
+I am a passionate **Software Engineering Student** (4th Semester) at **Superior College, Mian Channu** (Affiliated with GCUF). I focus on building efficient logic and scalable systems. My journey is driven by a commitment to mastering Data Structures and contributing to impactful Open Source projects.
 
 ---
 
