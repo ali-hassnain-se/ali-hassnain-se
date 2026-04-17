@@ -1,13 +1,14 @@
 # Hi there, I'm Ali Hassnain! 👋 🚀
 
-I am a passionate **Software Engineering Student** (4th Semester) at **Superior College, Mian Channu** (Affiliated with GCUF). I focus on building efficient logic and scalable systems. My journey is driven by a commitment to mastering Data Structures and contributing to impactful Open Source projects.
+I am a passionate **Software Engineering Student** (4th Semester) at **Superior College, Mian Channu** (Affiliated with GCUF). I focus on building efficient logic and scalable systems. My journey is driven by a commitment to mastering Data Structures, Database Management, and contributing to impactful Open Source projects.
 
 ---
 
 ### 🌟 Professional Highlights
 - **Open Source Contributor @ KDE:** Developed and submitted a Python-based build blueprint for the **Mankala Engine**.
 - **KDE Craft:** Automated complex cross-platform dependency resolution for Windows environments.
-- **DSA Practitioner:** Maintaining a 170+ commit streak while implementing advanced DSA concepts in C++.
+- **DSA Practitioner:** Maintaining a 120+ commit streak while implementing advanced DSA concepts in C++.
+- **Technical Documentation:** Creating comprehensive setup guides for development environments (MySQL/WSL).
 
 ---
 
@@ -15,14 +16,16 @@ I am a passionate **Software Engineering Student** (4th Semester) at **Superior 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="45" height="45"/>&nbsp;
   <img src="https://img.shields.io/badge/Dev--C++-4b6fa0?style=for-the-badge&logo=cplusplus&logoColor=white" alt="devcpp" height="40"/>
 </p>
 
-- **Languages:** C++ (Advanced Logic), Python (Scripting/Open Source).
-- **Core Concepts:** Data Structures & Algorithms (DSA), OOP, CI/CD Workflows.
+- **Languages:** C++ (Advanced Logic), Python (Scripting), **SQL (Database Management)**.
+- **Core Concepts:** Data Structures & Algorithms (DSA), OOP, Relational Databases (MySQL).
+- **Workflows:** CI/CD, Technical Documentation, Open Source Development.
 
 ---
 
@@ -38,8 +41,8 @@ I am a passionate **Software Engineering Student** (4th Semester) at **Superior 
 
 ### 🔭 Current Focus
 - 🚀 Mastering **Binary Trees & Graph Theory** in C++.
+- 🗄️ Designing efficient relational schemas with **MySQL**.
 - 🛠️ Improving CI/CD pipelines for open-source gaming engines.
-- 📱 Exploring content strategy for technical growth.
 
 ---
 
