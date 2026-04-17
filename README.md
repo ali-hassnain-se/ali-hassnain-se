@@ -20,8 +20,6 @@ I am a passionate **Software Engineering Student** (4th Semester) at **Superior 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="45" height="45"/>&nbsp;
-  <img src="https://img.shields.io/badge/Dev--C++-4b6fa0?style=for-the-badge&logo=cplusplus&logoColor=white" alt="devcpp" height="40"/>
-</p>
 
 - **Languages:** C++ (Advanced Logic), Python (Scripting), **SQL (Database Management)**.
 - **Core Concepts:** Data Structures & Algorithms (DSA), OOP, Relational Databases (MySQL).
