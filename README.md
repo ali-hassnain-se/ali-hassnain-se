@@ -1,4 +1,4 @@
-# Hi there, I'm Ali Hassnain! 👋 🚀
+# Hi there, I'm Rana Ali Hassnain! 👋 🚀
 
 I am a passionate **Software Engineering Student** (4th Semester) at **Superior College, Mian Channu** (Affiliated with GCUF). I focus on building efficient logic and scalable systems. My journey is driven by a commitment to mastering Data Structures, Database Management, and contributing to impactful Open Source projects.
 
