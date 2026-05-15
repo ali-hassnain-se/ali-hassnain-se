@@ -19,9 +19,9 @@ I am a passionate **Software Engineering Student** (4th Semester) at **Superior 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="45" height="45"/>&nbsp;
 
-- **Languages:** C++ (Advanced Logic), Python (Scripting), **SQL (Database Management)**.
+- **Languages:** C++ (Advanced Logic), **SQL (Database Management)**.
 - **Core Concepts:** Data Structures & Algorithms (DSA), OOP, Relational Databases (MySQL).
-- **Workflows:** CI/CD, Technical Documentation, Open Source Development.
+- **Workflows:** Technical Documentation, Open Source Development.
 
 ---
 
