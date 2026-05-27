@@ -37,7 +37,7 @@ I am a passionate **Software Engineering Student** (4th Semester) at **Superior 
 
 ### 🔭 Current Focus
 - 🚀 Mastering **Binary Trees & Graph Theory** in C++.
-- 🗄️ Designing efficient relational schemas with **MySQL**.
+- 🗄️ Designing efficient relational schemas with ****.
 
 ---
 
