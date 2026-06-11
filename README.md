@@ -46,5 +46,5 @@ I am a passionate **Software Engineering Student** (4th Semester) at **Superior 
 - 📧 [ranaalihassnain07@gmail.com](mailto:ranaalihassnain07@gmail.com)
 
 <p align="center">
-  <i>"Writing code that makes a difference."</i>
+  <i>"Writing code that makes a difference.Thanks"</i>
 </p>
