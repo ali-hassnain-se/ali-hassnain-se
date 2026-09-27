@@ -14,11 +14,11 @@ I am a passionate **Software Engineering Student** (2024-28) at **Superior Colle
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,mysql,git,github,vscode,ubuntu,linux" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,html,mysql,git,github,vscode,ubuntu,linux" />
   </a>
 </p>
 
-- **Programming & Databases:** C++ (Advanced Problem Solving), **SQL (Relational Databases / MySQL)**.
+- **Programming & Databases:** C++ (Advanced Problem Solving), Python (Core & Scripting), **SQL (Relational Databases / MySQL)**.
 - **Core Engineering:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Database Management Systems (DBMS).
 - **Workflows & Tools:** Technical Documentation, Linux/WSL Environment, Git & Open Source Workflows.
 
@@ -36,10 +36,10 @@ I am a passionate **Software Engineering Student** (2024-28) at **Superior Colle
 
 ### 🔭 Current Focus
 - 🚀 Advanced Data Structures: Mastering **Binary Trees, Heaps, and Graph Theory** in C++.
+- 🐍 Python Development: Expanding problem-solving skills, automation scripts, and backend fundamentals.
 - 🗄️ Relational Architecture: Designing efficient database schemas and optimization patterns with **MySQL**.
 
 ---
-
 
 ### 📫 Let's Connect!
 <p align="left">
