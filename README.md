@@ -20,7 +20,7 @@ I am a passionate **Software Engineering Student** (2024-28) at **Superior Colle
 
 - **Programming & Databases:** C++ (Advanced Problem Solving), Python (Core & Scripting), **SQL (Relational Databases / MySQL)**.
 - **Core Engineering:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Database Management Systems (DBMS).
-- **Workflows & Tools:** Technical Documentation, Linux/WSL Environment, Git & Open Source Workflows.
+- **Workflows & Tools:** System Architecture & UML Modeling (draw.io), Technical Documentation, Linux/WSL Environment, Git & Open Source.
 
 ---
 
