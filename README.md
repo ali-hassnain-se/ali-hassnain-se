@@ -6,7 +6,7 @@ I am a passionate **Software Engineering Student** (2024-28) at **Superior Colle
 
 ### 🌟 Professional Highlights & Impact
 - **Open Source Contributor @ KDE:** Developed and submitted a Python-based build blueprint for the **Mankala Engine**, automating complex cross-platform dependency resolution for Windows environments (via KDE Craft).
-- **Technical Documentation:** Authored comprehensive, production-ready environment setup guides (including local MySQL, development environments,etc).
+- **Technical Documentation:** Authored comprehensive, production-ready environment setup guides (including local MySQL & development environments).
 
 ---
 
