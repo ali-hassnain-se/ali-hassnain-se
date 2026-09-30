@@ -37,7 +37,7 @@ I am a passionate **Software Engineering Student** (2024-28) at **Superior Colle
 ### 🔭 Current Focus
 - 🚀 Advanced Data Structures: Mastering **Binary Trees, Heaps, and Graph Theory** in C++.
 - 🐍 Python Development: Expanding problem-solving skills, automation scripts, and backend fundamentals.
-- 🗄️ Relational Architecture: Designing efficient database schemas and optimization patterns with **SQL**.
+- 🗄️ Relational Architecture: Designing efficient database schemas and optimization patterns with **MySQL**.
 
 ---
 
