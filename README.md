@@ -14,7 +14,7 @@ I am a passionate **Software Engineering Student** (2024-28) at **Superior Colle
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,html,mysql,git,github,vscode,ubuntu,linux" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,html,mysql,git,github,figma,vscode,ubuntu,linux" />
   </a>
 </p>
 
