@@ -55,6 +55,10 @@ I am a passionate **Software Engineering Student** (2024-28) at **Superior Colle
   <a href="https://discord.com/users/ranaalihassnain_" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="48" height="48" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/AHassnain07" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="48" height="48" />
+  </a>
 </p>
 
 <br/>
