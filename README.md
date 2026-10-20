@@ -44,12 +44,12 @@ I am a passionate **Software Engineering Student** (2024-28) at **Superior Colle
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rana-ali-hassnain-232789352/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" />
-  </a>
-  &nbsp;&nbsp;
   <a href="mailto:ranaalihassnain07@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="48" height="48" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rana-ali-hassnain-232789352/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" />
   </a>
   &nbsp;&nbsp;
   <a href="https://discord.com/users/ranaalihassnain_" target="_blank">
