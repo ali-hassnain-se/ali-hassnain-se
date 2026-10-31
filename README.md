@@ -76,12 +76,23 @@ I'm a **Software Engineering student (2024–28)** at **Superior College, Mian C
 
 ## 🌐 Connect With Me
 
-<div align="center">
-  <a href="mailto:ranaalihassnain07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/rana-ali-hassnain-232789352/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://discord.com/users/ranaalihassnain_"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://x.com/AHassnain07"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-</div>
+<p align="center">
+  <a href="mailto:ranaalihassnain07@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="48" height="48" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rana-ali-hassnain-232789352/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/ranaalihassnain_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="48" height="48" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/AHassnain07" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="48" height="48" />
+  </a>
+</p>
 
 <br/>
 
