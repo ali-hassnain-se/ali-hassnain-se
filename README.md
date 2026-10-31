@@ -4,7 +4,7 @@
 
 ### Software Engineering Student · Open Source Contributor · C++ & Python Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+efficient+logic+with+C%2B%2B+%26+Python;Mastering+Data+Structures+%26+Algorithms;Contributing+to+Open+Source+(KDE);Designing+clean+database+architectures" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+efficient+logic+with+C%2B%2B+%26+Python;Mastering+Data+Structures+%26+Algorithms;Designing+clean+database+architectures" alt="Typing SVG" />
 
 <p>
   <img src="https://img.shields.io/badge/Open%20Source-KDE-1D99F3?style=for-the-badge&logo=kde&logoColor=white" />
