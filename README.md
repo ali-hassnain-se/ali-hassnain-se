@@ -13,8 +13,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=ali-hassnain-se&label=Profile%20Views&color=a855f7&style=flat" alt="Profile views" />
-
 </div>
 
 ---
