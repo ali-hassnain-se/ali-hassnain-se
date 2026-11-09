@@ -2,7 +2,7 @@
 
 # Hi, I'm Rana Ali Hassnain 👋
 
-### Software Engineering Student · Open Source Contributor · C++ & Python Developer
+### Software Engineering Student · Former Open-Source Contributor · C++ & Python Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+efficient+logic+with+C%2B%2B+%26+Python;Mastering+Data+Structures+%26+Algorithms;Designing+clean+database+architectures" alt="Typing SVG" />
 
